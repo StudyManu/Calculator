@@ -2,9 +2,20 @@
 
 # 📌 Descrição do Projeto:
 
-Este é o meu primeiro projeto teste: uma calculadora simples desenvolvida para praticar os conceitos iniciais de programação e lógica. O projeto realiza operações básicas como soma, subtração, multiplicação e divisão.
+Este é o meu primeiro projeto teste: uma calculadora simples desenvolvida para praticar os conceitos iniciais de programação e lógica. 
+O objetivo deste projeto é praticar as habilidades de desenvolvimento web e aprender conceitos básicos de programação. Realiza operações básicas como soma, subtração, multiplicação e divisão.
 
-# 🤖 Linguagens e Tecnologias:
+# 🛠️ Funcionalidades:
+
+Somar
+Subtrair
+Multiplicar
+Dividir
+
+# 🧮 A Calculadora:
+
+
+# 🤖 Tecnologias Utilizadas:
 <img 
     align="left" 
     alt="HTML"
