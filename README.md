@@ -1,6 +1,6 @@
 <h1 align="center"> Calculator Project </h1>
 
-# <p> Descrição do Projeto: </p>
+# 📌 Descrição do Projeto:
 
 Este é o meu primeiro projeto teste: uma calculadora simples desenvolvida para praticar os conceitos iniciais de programação e lógica. O projeto realiza operações básicas como soma, subtração, multiplicação e divisão.
 
