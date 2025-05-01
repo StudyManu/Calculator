@@ -7,13 +7,13 @@ O objetivo deste projeto é praticar as habilidades de desenvolvimento web e apr
 
 # 🛠️ Funcionalidades:
 
-Somar
-Subtrair
-Multiplicar
-Dividir
+- Somar
+- Subtrair
+- Multiplicar
+- Dividir
 
 # 🧮 A Calculadora:
-
+![Captura de tela 2025-05-01 163803](https://github.com/user-attachments/assets/ef078d3a-4700-40c8-a2ec-ab1cb38348f5)
 
 # 🤖 Tecnologias Utilizadas:
 <img 
